@@ -1,0 +1,61 @@
+<!--
+	Christianah Gbaja
+	
+	Today's Date: Tue, Mar 03, 2020 
+	-->
+
+body {
+background-color: rgb(128,128,128);
+font-family: calibri, sans-serif;
+}
+
+header {
+	width:100%;
+	text-align:center;
+	background-color: rgb(128,0,0);
+}
+
+img {
+	width:175;
+	height:175;
+	border:15px double silver;
+	
+}
+
+h2 {
+	font-family:'Algerian', sans-serif;
+	color: white;
+	font-opacity: 0.8;
+}
+
+nav {
+	background-color: silver;
+}
+
+p {
+	font-size: 1.5em;
+	
+}
+	
+.newslink {
+	color: maroon;
+	font-weight: bold;
+	font-variant:small-caps;
+}
+
+aside {
+	width: 25%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: rgb(255,255,255);
+	border: 10px solid maroon;
+	
+}
+
+address {
+	font-size: 125%;
+	font-style: italic;
+	float: right;
+}
+	
+
